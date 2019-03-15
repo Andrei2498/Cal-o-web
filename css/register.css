@@ -41,6 +41,10 @@ h1{
     margin-left:10%;
 
 }
+#registerBtn button:hover{
+    background-color: #cc2020;
+}
+
 input{
     width: 70%;
     background-color:#f8f8f8;
